@@ -209,12 +209,16 @@ __marimo__/
 #pyinstaller
 dist/
 build/
+Guiversion/build/
+Guiversion/dist/
 
 #pyinstaller.spec
 pyinstaller.spec
+Guiversion/pyinstaller.spec
 
 #testinput
 testinput/
 
 #testoutput
 testoutput/
+

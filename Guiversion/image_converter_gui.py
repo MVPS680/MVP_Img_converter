@@ -15,8 +15,8 @@ from PIL import Image
 class ImageConverterGUI:
     def __init__(self, root):
         self.root = root
-        self.root.title("批量图片格式转换器")
-        self.root.geometry("500x400")
+        self.root.title("批量图片格式转换器GUI版本 -MVP")
+        self.root.geometry("500x600")
         self.root.resizable(True, True)
         
         # 设置全局字体
